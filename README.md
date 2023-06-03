@@ -14,6 +14,5 @@
 #### :arrow_double_down: [MAC 下载地址](http://web.efgshgkss.xyz/static/app/qilinVPN_1.1.dmg)
 #### :arrow_double_down: [Android 下载地址](http://web.efgshgkss.xyz/static/app/qilinVPN_103_jiagu_sign.apk)
 #### :arrow_double_down: [麒麟官方网站](http://wap.efgshgkss.xyz)
-#### :arrow_double_down: [激活码兑换教程](https://ht.efgshgkss.xyz/b503764722e2bd00420e4fd5454ebf5e.mp4)
 ---
 
