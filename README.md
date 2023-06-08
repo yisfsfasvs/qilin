@@ -13,6 +13,8 @@
 #### :arrow_double_down: [iOS 海外商店版本链接](https://apps.apple.com/us/app/id6444905068)
 #### :arrow_double_down: [MAC 下载地址](http://web.efgshgkss.xyz/static/app/qilinVPN_1.1.dmg)
 #### :arrow_double_down: [Android 下载地址](http://web.efgshgkss.xyz/static/app/qilinVPN_103_jiagu_sign.apk)
+#### :arrow_double_down: [Windows 下载地址](http://localhost:8081/static/app/qilinVPN.exe)
+
 #### :arrow_double_down: [麒麟官方网站](http://wap.efgshgkss.xyz)
 ---
 
