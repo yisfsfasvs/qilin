@@ -15,6 +15,6 @@
 #### :arrow_double_down: [Android 下载地址](http://web.efgshgkss.xyz/static/app/qilinVPN_2.2.apk)
 #### :arrow_double_down: [Windows 下载地址](http://web.efgshgkss.xyz/static/app/麒麟VPN.msi)
 
-#### :arrow_double_down: [麒麟官方网站](http://wap.efgshgkss.xyz)
+#### :arrow_double_down: [麒麟官方网站](http://web.efgshgkss.xyz)
 ---
 
